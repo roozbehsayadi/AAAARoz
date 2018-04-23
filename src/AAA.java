@@ -3,7 +3,4 @@ public class AAA {
         System.out.println("HEllo Git!");
     }
 
-    public static void print(){
-        System.out.println( "PRint!" );
-    }
 }
